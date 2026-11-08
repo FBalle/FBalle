@@ -21,6 +21,7 @@ I'm a Software Engineer with **3+ years of professional experience** building pr
 - 🤖 Passionate about integrating **LLMs and AI agents** into real-world workflows
 - 🌱 Always learning — currently exploring **FastAPI**, **Docker**, and **event-driven architectures**
 - 🤝 I enjoy **code reviews**, mentoring junior devs, and collaborative problem solving
+- 💼 Freelance: building AI-powered WhatsApp automation for automotive businesses
 - ⚡ Fun fact: I also hold multiple **Cisco networking certifications**
 
 ---
@@ -58,19 +59,17 @@ I'm a Software Engineer with **3+ years of professional experience** building pr
 ### AI & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+[![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com)
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 [MiProyectoIntegrador](https://github.com/FBalle/MiProyectoIntegrador)
-> Integrador project developed during my Software Engineering degree. Covers full development lifecycle including design, implementation, and testing.
+### 🔹 [WhatsApp AI Assistant](https://github.com/FBalle/whatsapp-ai-assistant)
+> AI-powered WhatsApp assistant and mini-CRM for service businesses. Uses Claude for intent classification and structured JSON extraction, FastAPI for the webhook service, PostgreSQL for storage, and a React dashboard. *(In active development; rewrite of a no-code prototype built for a real freelance client.)*
 
-### 🔹 [Examen2parcial](https://github.com/FBalle/Examen2parcial)
-> Python-based project showcasing backend logic, data structures, and problem-solving skills.
-
-### 🔹 [RepositorioRemoto_PrácticasGit](https://github.com/FBalle/RepositorioRemoto_Pr-cticasGit)
-> Practice repository demonstrating Git workflows: branching, merging, pull requests, and version control best practices.
+### 🔹 [MTQ Dashboard](https://github.com/FBalle/MTQ-Dashboard)
+> AI-powered construction management dashboard built with Python and Streamlit.
 
 ---
 
